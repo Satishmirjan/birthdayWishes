@@ -1,0 +1,56 @@
+body{
+    background-image: url("./WhatsApp\ Image\ 2023-10-18\ at\ 17.34.09_adecb3d4.jpg");
+    color: #141E46;
+  
+   
+}
+h1{
+    background-color:#F8BDEB;
+    color: #0802A3;
+    
+    top: -20px;
+    text-align: center;
+    position: relative;
+   
+}
+h2{
+   font-size: xx-large ;
+   
+
+}
+
+h2,p{
+    position: relative;
+    background-color:#f6f6a7;
+   top: -50px; 
+  
+}
+
+p{
+    font-weight: 900;
+    font-size:120%;
+    
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #040D12;
+   position: relative;
+   top: -105px;
+  
+}
+
+h3{
+ 
+    color: #040D12;
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+ text-align: end;
+    font-size: 180%;
+display: inline-flex;
+position: relative;
+top: -60px;
+left: 1300px;
+
+    
+}
+

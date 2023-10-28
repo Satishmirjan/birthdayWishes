@@ -1,0 +1,30 @@
+BODY{
+    background-image:url("./wp6949067.jpg") ;
+background-repeat: unset;
+}
+h1{
+    color:#22668D;
+    background-color: #FFFADD;
+    display: -webkit-inline-box
+}
+p{
+   
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #040D12;
+    
+}
+h3{
+    display: -webkit-inline-flex;
+    color: #040D12;
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 180%;
+}
+img{
+    width: 390px;
+    height: 500px;
+    background-color: #F3F0CA;
+    
+}

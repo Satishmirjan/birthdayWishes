@@ -1,0 +1,63 @@
+body{
+    background-image:url("./R.jpeg");
+background-size: auto;
+
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+   text-align: center;
+   text-decoration-color: rgb(35, 221, 221); 
+   color:#3876BF;
+   background-color:#192655 ;
+   
+}
+
+
+video{
+   width: 390px;
+   height: 600px;
+   background-color: #F3F0CA;
+   
+}
+table{
+    
+  
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    color:#beb74f;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+    table{
+        text-size-adjust: 1PX;
+        border-collapse: separate; /* Use 'collapse' for no spacing or 'separate' for spacing */
+  border-spacing: 10px;
+        
+       
+    }
+
+   
+    
+.second{
+   
+    
+    
+    
+    font-family: 'Times New Roman', Times, serif;
+  
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    
+}
+
+#one{
+    color:#004225;
+}
+#second{
+    color: #A5AEFF;
+    padding-top: 4%;
+}

@@ -1,0 +1,38 @@
+body{
+    background-image:url("./OIP (2).jpeg");
+
+}
+
+p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #040D12;
+    
+}
+h3{
+    display: -webkit-inline-flex;
+    color: #040D12;
+    background-color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 180%;
+}
+
+.second{
+    width: 420px;
+    height: 400px;
+ padding-right: 5%;
+    padding-left: 8%;
+    
+ }
+.first{
+    color: #1A8B9D;
+    padding-left: 8%;
+    padding-right: 5%;
+
+}
+h1{
+    color:#22668D;
+    background-color: #FFFADD;
+    display: -webkit-inline-box
+}
